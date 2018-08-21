@@ -1,6 +1,8 @@
 import concurrent.futures
 import math
 
+# Eine parallele Berechnung mit Python
+
 PRIMES = [
     112272535095293,
     112582705942171,
