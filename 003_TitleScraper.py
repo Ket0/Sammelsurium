@@ -21,11 +21,8 @@ def getTitle(url):
 	print( html.geturl() )
 	return title
 
-#title = getTitle('http://www.data-blaze.de')
-#title = getTitle('http://www.spiegel.de')
-#title = getTitle('https://github.com/Ket0')
-#title = getTitle('https://github.com')
-
+# Starte Crawler
+title = getTitle('http://www.data-blaze.de')
 if title == None:
 	print('Title could not be found. :/')
 else:
