@@ -1,0 +1,5 @@
+ die leerzeichen in zeile 1.
+ die leerzeichen in zeile 2.
+ die leerzeichen in zeile 3.
+ die leerzeichen in zeile 4.
+END_OF_FILE.
